@@ -1,0 +1,10 @@
+{
+  "name": "driver-receipt-generator",
+  "version": "1.0.0",
+  "description": "Generate professional receipts for rideshare, taxi, limo, and delivery drivers",
+  "license": "MIT",
+  "clawhub": {
+    "category": "business",
+    "tags": ["receipt", "driver", "invoice", "rideshare", "taxi", "uber"]
+  }
+}
